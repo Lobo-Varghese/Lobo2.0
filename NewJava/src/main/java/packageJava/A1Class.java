@@ -23,7 +23,7 @@ public class A1Class {
 	public static void main(String[] args) {
 	// Creation of Class Object for using the Method
 	// ClassName objectName = new ClassName();
-		
+		//syso
 		
 	//Return Types
 	}
